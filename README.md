@@ -43,8 +43,9 @@ The dataset includes:
 ## 📘 Learning Outcome
 In this project, I gained knowledge of **Power Query** and hands-on experience with the **Excel user interface**, including Pivot Tables, charts, slicers, and dashboard creation.
 
-<img src="C:\Users\Mahesh Mahajan\Pictures\Screenshots\Screenshot 2026-01-29 224552.png" />
+<img width="1499" height="796" alt="![Uploading Screenshot 2026-01-29 224552.png…]()
+" src="C:\Users\Mahesh Mahajan\Pictures\Screenshots\Screenshot 2026-01-29 224552.png" />
 
 ---
 
-
+<img width="1411" height="687" alt="Screenshot 2026-01-12 180156"
